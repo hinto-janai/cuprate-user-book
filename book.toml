@@ -1,0 +1,12 @@
+[book]
+authors = ["hinto-janai"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Cuprate User Book"
+git-repository-url = "https://github.com/Cuprate/cuprate/books/user"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+no-section-label = true
