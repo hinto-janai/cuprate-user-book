@@ -1,1 +1,0 @@
-# monerod & cuprated
